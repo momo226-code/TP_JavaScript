@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "title": "Développeur Front-End Vue.js",
+      "company": "TechNova",
+      "location": "Paris, France",
+      "salary": "45 000€ - 55 000€",
+      "description": "Développement d'interfaces utilisateurs avec Vue.js et intégration d'API REST.",
+      "skills": ["Vue.js", "HTML", "CSS", "JavaScript", "Git"],
+      "availability": "open"
+    },
+    {
+      "id": 2,
+      "title": "Développeur Back-End Node.js",
+      "company": "CodeCraft",
+      "location": "Lyon, France",
+      "salary": "50 000€ - 60 000€",
+      "description": "Création d'API robustes avec Node.js et Express.",
+      "skills": ["Node.js", "Express", "MongoDB", "Docker", "Git"],
+      "availability": "open"
+    },
+    {
+      "id": 3,
+      "title": "Ingénieur DevOps",
+      "company": "Cloudify",
+      "location": "Remote",
+      "salary": "60 000€ - 75 000€",
+      "description": "Mise en place d'infrastructures CI/CD et gestion des déploiements cloud.",
+      "skills": ["AWS", "Docker", "Kubernetes", "CI/CD", "Terraform"],
+      "availability": "closed"
+    },
+    {
+      "id": 4,
+      "title": "Chef de Projet IT",
+      "company": "InnovApp",
+      "location": "Marseille, France",
+      "salary": "55 000€ - 65 000€",
+      "description": "Gestion de projets agiles dans le développement d'applications mobiles et web.",
+      "skills": ["Agile", "Scrum", "Jira", "Communication", "Gestion d'équipe"],
+      "availability": "open"
+    },
+    {
+      "id": 5,
+      "title": "UX/UI Designer",
+      "company": "PixelLab",
+      "location": "Toulouse, France",
+      "salary": "40 000€ - 50 000€",
+      "description": "Création de maquettes ergonomiques et intuitives pour applications web.",
+      "skills": ["Figma", "Adobe XD", "UX Research", "UI Design", "Prototypage"],
+      "availability": "closed"
+    },
+    {
+      "id": 6,
+      "title": "Data Analyst",
+      "company": "DataPulse",
+      "location": "Nantes, France",
+      "salary": "48 000€ - 58 000€",
+      "description": "Analyse de données métier et création de dashboards via Power BI.",
+      "skills": ["SQL", "Power BI", "Python", "Data Visualization"],
+      "availability": "open"
+    },
+    {
+      "id": 7,
+      "title": "Développeur Mobile Flutter",
+      "company": "AppStorm",
+      "location": "Lille, France",
+      "salary": "50 000€ - 62 000€",
+      "description": "Développement d'applications mobiles cross-platform avec Flutter.",
+      "skills": ["Flutter", "Dart", "Firebase", "Git", "API REST"],
+      "availability": "open"
+    },
+    {
+      "id": 8,
+      "title": "Administrateur Systèmes & Réseaux",
+      "company": "InfraPlus",
+      "location": "Nice, France",
+      "salary": "42 000€ - 52 000€",
+      "description": "Maintenance des infrastructures réseaux et sécurité informatique.",
+      "skills": ["Linux", "Windows Server", "Cisco", "Sécurité", "VPN"],
+      "availability": "closed"
+    },
+    {
+      "id": 9,
+      "title": "Développeur Full-Stack Java/Angular",
+      "company": "SoftBridge",
+      "location": "Grenoble, France",
+      "salary": "55 000€ - 65 000€",
+      "description": "Participation à toutes les étapes de développement d'une solution web.",
+      "skills": ["Java", "Spring Boot", "Angular", "MySQL", "Git"],
+      "availability": "open"
+    },
+    {
+      "id": 10,
+      "title": "Consultant ERP SAP",
+      "company": "EnterpriseLogic",
+      "location": "Strasbourg, France",
+      "salary": "65 000€ - 75 000€",
+      "description": "Implémentation et personnalisation de solutions SAP pour clients PME et grands comptes.",
+      "skills": ["SAP", "ERP", "Gestion de projet", "ABAP", "Business Process"],
+      "availability": "closed"
+    },
+    {
+      "id": 11,
+      "title": "Testeur QA",
+      "company": "BugTrackers",
+      "location": "Montpellier, France",
+      "salary": "38 000€ - 45 000€",
+      "description": "Réalisation de plans de test, automatisation et validation fonctionnelle.",
+      "skills": ["Selenium", "Postman", "Jest", "QA", "Test Plan"],
+      "availability": "open"
+    },
+    {
+      "id": 12,
+      "title": "Ingénieur Machine Learning",
+      "company": "AIWorks",
+      "location": "Paris, France",
+      "salary": "70 000€ - 85 000€",
+      "description": "Modélisation, entraînement et déploiement de modèles ML pour produits IA.",
+      "skills": ["Python", "TensorFlow", "PyTorch", "Pandas", "MLflow"],
+      "availability": "open"
+    },
+    {
+      "id": 13,
+      "title": "Product Owner",
+      "company": "AgileTeam",
+      "location": "Remote",
+      "salary": "60 000€ - 70 000€",
+      "description": "Définition de la roadmap produit et priorisation des fonctionnalités.",
+      "skills": ["Product Management", "Scrum", "UX", "Roadmap", "Backlog"],
+      "availability": "closed"
+    },
+    {
+      "id": 14,
+      "title": "Développeur Python/Django",
+      "company": "WebStack",
+      "location": "Bordeaux, France",
+      "salary": "52 000€ - 60 000€",
+      "description": "Développement d’applications web sécurisées avec Django et PostgreSQL.",
+      "skills": ["Python", "Django", "PostgreSQL", "Docker", "Git"],
+      "availability": "open"
+    },
+    {
+      "id": 15,
+      "title": "Spécialiste en cybersécurité",
+      "company": "SecureTech",
+      "location": "Toulon, France",
+      "salary": "68 000€ - 78 000€",
+      "description": "Audit de sécurité, réponse aux incidents et sensibilisation des équipes.",
+      "skills": ["Pentest", "Firewall", "SIEM", "Linux", "Réseaux"],
+      "availability": "closed"
+    }
+  ]
+  
